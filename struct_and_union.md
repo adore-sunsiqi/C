@@ -1,5 +1,4 @@
 # 结构体和联合的标准定义。推荐
-        ssh -t git@github.com
 
         struct 结构体名{ // 声明
             成员变量;
